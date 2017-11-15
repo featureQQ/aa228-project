@@ -1,0 +1,9 @@
+
+Mykel OH 11/14
+
+Questions/Notes-
+1. Rewards: Whether to time/energy into MDP formulation or should it be kept outside?
+2. Baseline: rule based
+3. Model: How realistic to make the world?
+4. MDP formulation: Running one MDP for each encounter for a single UAV
+5. Simultaneous UFO threats: Running multiple MDPs for each UAV and selecting the best action by comparing the rewards
